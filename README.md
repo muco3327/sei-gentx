@@ -1,5 +1,6 @@
 # <h1 align="center"> Sei Network gentx dosyası alma, pull request ve form doldurma 3</h1> 
 
+## Yedek almak için formdaki işlem yapılabilir.
 ## Arkadaşlar öncelikle bu işlemleri mevcut sunucunuzda yani sei veya herhangi bir validatorün çalıştığı sunucuda yapamıyorsunuz maalesef boş sunucuya ihtiyacınız var.
 
 
